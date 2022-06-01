@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <title>To-Do List by Morttis</title>
+</head>
+<body>
+    <div class="content">
+        <div class="row">
+            <div class="col-12">
+                <h1>To-Do List by Morttis</h1>
+                <form>
+                    <input type="text" name="nitem" id="nitem" placeholder="New Item..." />
+                    <input type="button" name="" onclick="insert();" value="Insert" />
+                </form>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="to-do-list-box">
+                    <label>My List</label>
+                    <ul id="myList">
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./assets/js/script.js"></script>
+</body>
+</html>
