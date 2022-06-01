@@ -6,6 +6,6 @@
 
 - Eu gostaria de criar duas maneiras de realizar a marcação de tarefa realizada, pois queria que ela ficasse riscada em uma primeira etapa e depois eu pudesse remove-la, mas não consegui fazer desta forma, só consegui fazer a remoção.
 
-- Sempre em frente, assim que descobrir outras formas refaõ a minha To-Do List.
+- Sempre em frente, assim que descobrir outras formas refaço a minha To-Do List.
 
 
