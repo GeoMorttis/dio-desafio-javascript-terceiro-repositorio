@@ -8,4 +8,4 @@
 
 ###### Desafio 2 - Aula 6 - To-Do List               - Início 31/05 | Finalização 01/06
 
-# 
+###### Desafio 3 - Sintaxe e Operadores        - Início 02/06 | Finalização 02/06
