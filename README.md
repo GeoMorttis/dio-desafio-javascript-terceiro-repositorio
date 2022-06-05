@@ -17,3 +17,5 @@
 ###### Desafio 6 - Tratamento de Erros           - Início 04/06 | Finalização 04/06
 
 ###### Desafio 7 - Javascript Assíncrono         - Início 05/06 | Finalização 05/06
+
+###### Desafio 8 - Orientação a Objetos         - Início 05/06 | Finalização 05/06
