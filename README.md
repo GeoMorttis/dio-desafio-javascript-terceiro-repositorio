@@ -19,3 +19,5 @@
 ###### Desafio 7 - Javascript Assíncrono         - Início 05/06 | Finalização 05/06
 
 ###### Desafio 8 - Orientação a Objetos         - Início 05/06 | Finalização 05/06
+
+###### Desafio 9 - Manipulando a D.O.M.       - Início 06/06 | Finalização 06/06
